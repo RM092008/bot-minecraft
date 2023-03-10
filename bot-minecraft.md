@@ -1,0 +1,2 @@
+#BotMinecraft : 
+[]install papermc
